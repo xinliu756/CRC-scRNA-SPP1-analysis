@@ -1,0 +1,11 @@
+"tissue","cell_type","total_cells","SPP1_positive","SPP1_ratio"
+"N","B cell",6016,21,0.35
+"T","B cell",1956,177,9.05
+"N","CD4 T cell",2808,2,0.07
+"T","CD4 T cell",3827,109,2.85
+"N","CD8 T cell",2645,2,0.08
+"T","CD8 T cell",2185,69,3.16
+"N","ILC",163,0,0
+"T","ILC",167,2,1.2
+"N","Myeloid cell",1025,15,1.46
+"T","Myeloid cell",2559,1152,45.02
